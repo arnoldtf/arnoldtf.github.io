@@ -160,4 +160,8 @@ img {
 
 /* Footer */
 
+footer {
+    padding:1rem;
+    top-border:2rem solid #333;
+}
 
