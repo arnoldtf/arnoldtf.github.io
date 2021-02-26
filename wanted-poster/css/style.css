@@ -121,6 +121,23 @@ h5 {
 }    
     /* Section & Paragraph */
 
+section {
+    top-margin:.5rem;
+    bottom-margin:.5rem;
+}
+
+p {
+    top-margin:1rem;
+    bottom-margin:1rem;
+    right-margin:auto;
+    left-margin:auto;
+    top-padding:0;
+    bottom-padding:0;
+    left-padding:1rem;
+    right-padding:1rem;
+    text-width:90%;
+    text-align:left;
+}
 
 
 /* Image & Figure */
