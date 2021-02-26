@@ -135,14 +135,28 @@ p {
     bottom-padding:0;
     left-padding:1rem;
     right-padding:1rem;
-    text-width:.9;
+    text-width:90%;
     text-align:left;
 }
 
 
 /* Image & Figure */
 
-
+figure {
+    bottom-margin:2rem;
+}
+figcaption {
+    top-padding:.5rem;
+    text-align:right;
+}
+img {
+    width:100%;
+    top-margin:0;
+    bottom-margin:0;
+    left-margin:auto;
+    right-margin:auto;
+    max-width:50rem;
+}    
 
 /* Footer */
 
