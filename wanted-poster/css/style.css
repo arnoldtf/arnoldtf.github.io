@@ -135,7 +135,7 @@ p {
     bottom-padding:0;
     left-padding:1rem;
     right-padding:1rem;
-    text-width:90%;
+    text-width:.9;
     text-align:left;
 }
 
