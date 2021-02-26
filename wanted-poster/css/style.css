@@ -109,10 +109,10 @@ h5 {
     margin: 0;
     letter-spacing: .5rem;
     color:darkred;
-    top-padding:.5rem;
-    bottom-padding:.5rem;
-    left-padding:.5rem;
-    right-padding:.5rem;
+    padding-top:.5rem;
+    padding-bottom:.5rem;
+    padding-left:.5rem;
+    padding-right:.5rem;
     background-color: #333;
     foreground-color: #FFF;
     text-shadow:.09375rem .09375rem .09375rem #000;
@@ -122,19 +122,19 @@ h5 {
     /* Section & Paragraph */
 
 section {
-    top-margin:.5rem;
-    bottom-margin:.5rem;
+    margin-top:.5rem;
+    margin-bottom:.5rem;
 }
 
 p {
-    top-margin:1rem;
-    bottom-margin:1rem;
-    right-margin:auto;
-    left-margin:auto;
-    top-padding:0;
-    bottom-padding:0;
-    left-padding:1rem;
-    right-padding:1rem;
+    margin-top:1rem;
+    margin-bottom:1rem;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:0;
+    padding-bottom:0;
+    padding-left:1rem;
+    padding-right:1rem;
     text-width:90%;
     text-align:left;
 }
@@ -143,18 +143,18 @@ p {
 /* Image & Figure */
 
 figure {
-    bottom-margin:2rem;
+    margin-bottom:2rem;
 }
 figcaption {
-    top-padding:.5rem;
+    padding-top:.5rem;
     text-align:right;
 }
 img {
     width:100%;
-    top-margin:0;
-    bottom-margin:0;
-    left-margin:auto;
-    right-margin:auto;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
     max-width:50rem;
 }    
 
@@ -162,6 +162,7 @@ img {
 
 footer {
     padding:1rem;
-    top-border:2rem solid #333;
+    border-top:2rem solid #333;
+    text-align:center;
 }
 
