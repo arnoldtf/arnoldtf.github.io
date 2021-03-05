@@ -175,9 +175,7 @@ ol {
     margin-right: 0;
     list-style-type: lower-alpha;
 }
-.long-list a:hover {
-    text-transform: upper;
-}
+    .long-list a:hover {}
     
 
 
