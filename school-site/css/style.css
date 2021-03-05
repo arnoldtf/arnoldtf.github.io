@@ -140,7 +140,7 @@ figcaption {
 /* Link Styling */
 
 a {
-    outline: none;
+    outline: 1;
 }
 
 a:link,
