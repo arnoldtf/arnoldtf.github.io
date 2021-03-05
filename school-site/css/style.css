@@ -161,9 +161,20 @@ a:hover {
 
 /* List Styling */
 
-ul {}
+ul {
+    top-margin: 1rem;
+    bottom-margin: 1rem;
+    left-margin: 0;
+    right-margin: 0;
+    list-style-type: square;
 
-ol {}
+ol {
+    top-margin: 1rem;
+    bottom-margin: 1rem;
+    left-margin: 0;
+    right-margin: 0;
+    list-style-type: lower-alpha;
+    }
 .long-list a:hover {}
 
 
