@@ -198,15 +198,24 @@ nav a {
 }
 
 nav a:focus,
-nav a:hover {}
+nav a:hover {
+    foreground-color: #FFF;
+    background-color: #33658A;
+    }
 
-nav a:active {}
+nav a:active {
+    foreground-color: #FFF;
+    background-color: #000;
+    }
 
 
 
 /* Footer Styles */
 
-footer {}
+footer {
+    text-align: center;
+    }
+    
 
 
 
