@@ -94,8 +94,6 @@ header, footer {
 }
 
 
-
-
 /* Typography Styles */
 
 html {
@@ -139,7 +137,6 @@ figcaption {
 
 
 
-
 /* Link Styling */
 
 a {
@@ -155,7 +152,6 @@ a:focus,
 a:hover {
     text-decoration: none;
 }
-
 
 
 
