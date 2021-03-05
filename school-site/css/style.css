@@ -81,14 +81,14 @@ header, footer {
 
 @font-face {
     
-    font-family:'josefinslab';
+    font-family:josefinslab;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight:normal;
     font-style: normal;
 }
 @font-face {
     
-    font-family:'monsterrat';
+    font-family:monsterrat;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight:normal;
     font-style: normal;
