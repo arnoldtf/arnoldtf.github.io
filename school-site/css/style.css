@@ -174,17 +174,21 @@ ol {
     margin-left: 0;
     margin-right: 0;
     list-style-type: lower-alpha;
-    }
+}
 .long-list a:hover {
     text-transform: upper;
-    }
+}
     
 
 
 
 /* Navigation Menu */
 
-nav {}
+nav {
+    padding-left: 0;
+    margin-top: 0.25rem;
+}
+    
 
 nav a {
     text-decoration:none;
@@ -201,12 +205,12 @@ nav a:focus,
 nav a:hover {
     foreground-color: #FFF;
     background-color: #33658A;
-    }
+}
 
 nav a:active {
     foreground-color: #FFF;
     background-color: #000;
-    }
+}
 
 
 
@@ -214,7 +218,7 @@ nav a:active {
 
 footer {
     text-align: center;
-    }
+}
     
 
 
