@@ -81,16 +81,16 @@ header, footer {
 
 @font-face {
     
-    font-family: 'josefinslab';
+    font-family:'josefinslab';
     src: url("arnoldtf.github.io/fonts/josefinslab-regular.ttf) format('truetype');
-    font-weight: normal;
+    font-weight:normal;
     font-style: normal;
 }
 @font-face {
     
-    font-family: 'monsterrat';
+    font-family:'monsterrat';
     src: url("arnoldtf.github.io/fonts/montserrat-regular.ttf) format('truetype');
-    font-weight: normal;
+    font-weight:normal;
     font-style: normal;
 }
 
