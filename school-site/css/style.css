@@ -81,24 +81,26 @@ header, footer {
 
 @font-face {
     
-    font-family:Coolfont;
-    src: local(fonts/josefinslab-regular.ttf) format('truetype');
-    font-weight:normal;
-    font-style:normal;
+    font-family: 'josefinslab';
+    src: url("arnoldtf.github.io/fonts/josefinslab-regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
     
-    font-family:Coolfont;
-    src: local(fonts/montserrat-regular.ttf) format('truetype');
-    font-weight:normal;
-    font-style:normal;
+    font-family: 'monsterrat';
+    src: url("arnoldtf.github.io/fonts/montserrat-regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 
 
 /* Typography Styles */
 
-html {}
+html {
+    font-family: monsterrat;
+}
 
 h1 {}
 
