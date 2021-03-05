@@ -99,11 +99,11 @@ header, footer {
 /* Typography Styles */
 
 html {
-    font-family: monsterrat, sans-serif;
+    font-family:monsterrat, sans-serif;
 }
 
 h1 {
-    font-family: josefinslab, serif;
+    font-family:josefinslab, serif;
     letter-spacing: 0.125rem;
     font-size: 3.75rem;
     margin: 1.125rem;
@@ -111,7 +111,7 @@ h1 {
 }
 
 h2 {
-    font-family: josefinslab;
+    font-family:josefinslab;
     letter-spacing: 0.125rem;
     font-size: 1.5rem;
 }
