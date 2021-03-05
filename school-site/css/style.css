@@ -161,22 +161,6 @@ a:hover {
 
 /* List Styling */
 
-ul {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 0;
-    margin-right: 0;
-    list-style-type: square;
-
-ol {
-    margin-top: 1rem;
-    bottom-margin: 1rem;
-    margin-left: 0;
-    margin-right: 0;
-    list-style-type: lower-alpha;
-}
-    .long-list a:hover {}
-    
 
 
 
@@ -198,6 +182,26 @@ nav a {
     margin-bottom:1.5rem;
     border:solid 0.0625rem color #33658A;
 }
+
+nav a:focus,
+nav a:hover {
+    foreground-color:#FFF;
+    background-color:#33658A;
+}
+
+nav a:active {
+    foreground-color:#FFF;
+    background-color:#000;
+}
+
+
+
+/* Footer Styles */
+
+footer {
+    text-align:center;
+}
+    
 
 
 
