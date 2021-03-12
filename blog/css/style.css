@@ -68,7 +68,7 @@ main {
 }
 nav {
       float:center;
-      display: flex;
+      display: wrap;
       flex-direction: row;
       width:14rem;
       border:.0625rem solid #333;
