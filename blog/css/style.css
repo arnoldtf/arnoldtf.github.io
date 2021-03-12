@@ -66,13 +66,6 @@ main {
     min-width:45rem;
     
 }
-nav {
-      float:center;
-      display: wrap;
-      flex-direction: row;
-      width:14rem;
-      border:.0625rem solid #333;
-}
 
 section {
     float: left;
