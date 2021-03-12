@@ -49,6 +49,13 @@
     font-weight:normal;
     font-style: normal;
 }
+@font-face {
+    
+    font-family:josefinslab;
+    src: url(../fonts/serif/josefinslab-regular.ttf);
+    font-weight:normal;
+    font-style: normal;
+}
 
 h1 {
     font-family:josefinslab, serif;
@@ -63,6 +70,12 @@ h2 {
     letter-spacing: 0.125rem;
     font-size: 1.5rem;
 }
+h3 {
+    font-family:josefinslab, serif;
+    letter-spacing: 0.125rem;
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center;
 
         */
 
