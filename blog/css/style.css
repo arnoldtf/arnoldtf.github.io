@@ -69,12 +69,9 @@ main {
 nav {
       float:center;
       display: flex;
-      flex-wrap:wrap;
       flex-direction: row;
       width:14rem;
       border:.0625rem solid #333;
-      background-color:#8FB0D0;
-      position:fixed;
 }
 
 section {
@@ -98,9 +95,6 @@ figcaption {
     margin:.375rem 0;
 }
 
-.long-list {
-    margin-top:0;
-}
 
 
 footer {
