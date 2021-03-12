@@ -66,6 +66,16 @@ main {
     min-width:45rem;
     
 }
+nav {
+      float:center;
+      display: flex;
+      flex-wrap:wrap;
+      flex-direction: row;
+      width:14rem;
+      border:.0625rem solid #333;
+      background-color:#8FB0D0;
+      position:fixed;
+}
 
 section {
     float: left;
