@@ -43,7 +43,6 @@
 
             - @font-face or @import (to import typefaces)
 
-
 * {
     box-sizing: border-box;
 }
@@ -58,6 +57,7 @@ body {
     min-width:56.25rem;
 }
 
+/* Layout */
 
 main {
     overflow:auto;
@@ -104,7 +104,7 @@ section, aside, nav, footer {
   padding: .5rem;
 }
 
-
+/* header and footer */
 
 header, footer {
   border-top: .125rem solid #33658A;
