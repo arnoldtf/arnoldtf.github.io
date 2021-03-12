@@ -102,19 +102,12 @@ figcaption {
     margin-top:0;
 }
 
-nav {
-    float: left;
-    width:11.25rem;
-}
 
 footer {
     clear: both;
     margin-top:1.5rem;
 }
 
-section, aside, nav, footer {
-  padding: .5rem;
-}
 
 /* header and footer */
 
