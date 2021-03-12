@@ -1,43 +1,5 @@
 /* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
- box-sizing: border-box;
-}
 
-    
-}
-
-section {
-    float: left;
-    min-width: 22.5rem;
-    width:50%;
-}
-
-figure {
-    width:60%;
-    margin:0 10% 0 0;
-    float:left;
-}
-
-figure img {
-    width:100%;
-    max-width:25rem;
-}
-
-figcaption {
-    margin:.375rem 0;
-}
-
-.long-list {
-    margin-top:0;
-}
-
-nav {
-    float: left;
-    width:11.25rem;
-}
-
-footer {
-    clear: both;
-    margin-top:1.5rem;
         /* 
         
         Spacing 
@@ -80,6 +42,13 @@ footer {
             - :focus, :hover, :active (to target link states)
 
             - @font-face or @import (to import typefaces)
+@font-face {
+    
+    font-family:monsterrat;
+    src: url(../fonts/sans-serif/montserrat-regular.ttf);
+    font-weight:normal;
+    font-style: normal;
+}
 
         */
 
